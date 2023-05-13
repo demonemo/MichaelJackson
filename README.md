@@ -1,2 +1,4 @@
-# miichelJackson
-A little infromation on the Michel Jackson
+# Michael Jackson
+A little infromation on the Michael Jackson
+
+Design: Ngozi Miracle Okolobielu
