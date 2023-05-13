@@ -1,0 +1,55 @@
+/*the contact botton
+.contact input[type=text],
+.contact input[type=tel],
+.contact input[type=email]
+{
+    display:block;
+    width:100%;
+    border-radius: .4em;
+    background-color: rgb(241, 209, 167);
+
+}
+.contact input[type=sumbit]{
+    border-radius: .4em;
+    background-color: blue;
+    cursor:pointer;
+}
+.contact select{}*/
+.field{
+    display:block;
+    width:100%;
+    border-radius: .4em;
+    background-color: rgba(230, 230, 230,06);
+    font-size: 1.1em; 
+    outline: none;
+    border: 2px solid rgba(0,0,0,0);
+}
+.field:hover{
+    background-color: #ff7b54;
+}
+.fielddance:hover{
+    background-color: #d3856d;
+}
+
+.fielddance{
+    display:block;
+    width:30%;
+    border-radius: .4em;
+    background-color: rgba(230, 230, 230,06);
+    outline: none;
+    border: 2px solid rgba(0,0,0,0);
+}
+.btn{
+    width:20%;
+    padding: 10px;
+    background-color:#ff7b54;
+    cursor:pointer;
+    outline: none;
+    border:none;
+    text-align: center;
+    color: #fff;
+    font-size: 1.1em;
+}
+.btn:hover{
+    color: #000;
+}

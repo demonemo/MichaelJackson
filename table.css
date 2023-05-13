@@ -1,0 +1,61 @@
+/*Mj song table*/
+table{
+    width: 500px;
+    height: 300px;
+
+}
+th{
+    text-align: left;
+}
+
+table, th, td{
+    border: 3px solid #4b502e;
+    border-collapse: collapse;
+    padding: 8px;
+}
+tr:nth-child(even){
+    background-color: #ffb26b;
+     
+}
+tr:nth-child(odd){
+    background-color: #737956 ;
+}
+/*the video in song html*/
+.vid{
+    position: relative;
+    padding-bottom: 40%;
+    border: 5px solid #4b502e;
+
+}
+.vid iframe{
+    position: absolute;
+    width:100%;
+    height:100%
+}
+/*the video in song html*/
+
+@media screen and (min-width:48em){
+    .contain{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap:2em;
+    }
+}
+@media screen and (min-width:60em){
+    .vid{
+        /*position: relative;*/
+        border: 5px solid #4b502e;
+    
+    }
+    .vid iframe{
+        position: absolute;
+        width:100%;
+        height:100%
+    }
+    /* grid*/
+    .contain{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap:2em;
+    }
+}

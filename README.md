@@ -1,2 +1,2 @@
-# MichaelJackson
-Hönnun: Ngozi Miracle Okolobielu
+# miichelJackson
+A little infromation on the Michel Jackson
