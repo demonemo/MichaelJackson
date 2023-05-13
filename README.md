@@ -1,2 +1,2 @@
-# miichelJackson
-A little infromation on the Michel Jackson
+# michaelJackson
+A little infromation on the Michael Jackson
