@@ -181,6 +181,7 @@ img {
     /*list of content*/
     .topmenu{
         font-size: 1.2em;
+        padding: .3em;
     }
     /*header*/
     header h1{
